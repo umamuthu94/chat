@@ -1,0 +1,13 @@
+.chatbot-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+  } 
+  
+  .chatbot {
+    max-width: 600px; /* Example: Limit chatbot width */
+    width: 100%;
+  }
+
+  /* The above is the correct style for small chatbot display */
